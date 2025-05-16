@@ -96,6 +96,7 @@ python main_mysql_updater.py
 - `results/cards_updated.csv` - Updated card balances and limits.
 - `results/customers_updated.csv` - Updated customer credit scores.
 
-## 📞 Contact
+## 👨‍💻 Author
 
-Developed by **Atharva Patil**
+Atharva Patil
+Data Science Graduate Student @ RIT
