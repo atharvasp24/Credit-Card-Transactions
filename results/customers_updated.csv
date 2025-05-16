@@ -1,0 +1,31 @@
+customer_id,name,phone_number,address,email,credit_score,annual_income
+1,Jeremy Ortiz,210-503-5948,"7320 Harrison Haven, New York, NY 16433",john30@example.com,705,59200.0
+2,Patrick Collins,820-883-1448,"364 Briggs Shores, Yonkers, NY 19402",stephanieking@example.org,808,173300.0
+3,Elizabeth Walker,706-633-9466,"5076 Steven Rapid, Schenectady, NY 14615",michael61@example.com,694,63900.0
+4,Justin Riley,440-701-3531,"722 Henderson Row, Albany, NY 11085",terri08@example.com,747,117900.0
+5,Joel Jones,686-915-3014,"2692 Tracy Inlet, Troy, NY 10770",aluna@example.com,710,52700.0
+6,Robert Gibson,244-875-7553,"2359 Smith Ville, Yonkers, NY 16508",porterandrew@example.org,723,64500.0
+7,Andrew Santos,448-209-7460,"3733 Samantha Land, Cheektowaga, NY 11181",tim13@example.com,781,99100.0
+8,Adam Garrett,211-444-9608,"6434 Jasmine Plains, Staten Island, NY 14329",rojasbrandon@example.com,662,116800.0
+9,Christopher Smith,947-677-8548,"4385 Rachel Square, Utica, NY 16067",samanthagarcia@example.org,768,44600.0
+10,Stephen Owens,625-847-2773,"4184 Price Camp, White Plains, NY 16131",benjamin03@example.com,672,42400.0
+11,Robert Wilson,430-605-4024,"3892 Buckley Parkway, Staten Island, NY 12668",campbellstephen@example.org,646,58200.0
+12,Jessica Walker,502-326-2248,"3420 Young Curve, Niagara Falls, NY 10749",michaelcrawford@example.org,635,59800.0
+13,Katherine Armstrong,336-702-2303,"8756 Clark Meadow, Troy, NY 13978",abbottkaren@example.com,772,182900.0
+14,Kevin Shaw,542-744-3809,"953 Allen Row, Binghamton, NY 11708",wtran@example.net,672,199300.0
+15,Bobby Crawford,846-200-4631,"1062 Jennifer Island, Yonkers, NY 13730",palmeramanda@example.org,657,27300.0
+16,Connor Clark,908-427-4389,"4412 Powell Lock, New York, NY 16028",welchjeffrey@example.com,665,64300.0
+17,Mario Thomas,423-682-8883,"4387 Brian Route, White Plains, NY 10998",jamiemccormick@example.net,793,113800.0
+18,Regina Waller,359-238-4044,"3107 Palmer Ridges, New York, NY 11541",wcarpenter@example.org,665,68600.0
+19,Alex Velazquez,291-672-2291,"5646 Adkins Extensions, Rochester, NY 19612",wendy12@example.org,699,406700.0
+20,Autumn Vaughan,619-465-3011,"3362 Sarah Spurs, Niagara Falls, NY 10516",melvinbradley@example.org,644,165900.0
+21,Andrew Hernandez,417-592-7736,"6132 Sarah Mountain, Niagara Falls, NY 10531",kendrabutler@example.com,738,103800.0
+22,Bryce Reyes,221-867-3403,"9060 Evelyn Lodge, Cheektowaga, NY 10865",michaelalexander@example.com,715,124400.0
+23,Trevor Jenkins,346-200-3746,"924 Maurice Views, Utica, NY 10670",watkinsrobert@example.net,642,78500.0
+24,Matthew Butler,750-201-3052,"4823 Williams Lodge, Niagara Falls, NY 10018",gary06@example.org,837,119700.0
+25,Timothy Thomas,776-824-7693,"4958 Little Summit, Binghamton, NY 12964",jacksonnicole@example.org,794,64600.0
+26,Ryan Williams,276-843-5272,"698 Mendez Ramp, Albany, NY 14475",costalee@example.net,711,116200.0
+27,Kyle Hahn,660-496-4577,"358 Brenda Hollow, Bronx, NY 11564",snichols@example.org,784,74700.0
+28,Melissa Mccall,618-785-2771,"1351 Kenneth Hollow, Niagara Falls, NY 12935",charles46@example.com,568,40600.0
+29,Zachary Nelson,970-419-3577,"2782 Johnson Crescent, Schenectady, NY 16945",yroberts@example.org,657,113300.0
+30,Michelle Salas,300-957-5406,"8731 Oconnell Mountains, Queens, NY 14008",lmoore@example.org,756,112200.0
